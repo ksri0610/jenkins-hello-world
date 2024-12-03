@@ -28,3 +28,4 @@ added somecontent in it
 added some text in it
 added final text in it
 added semifinal text in it
+executing all the files
